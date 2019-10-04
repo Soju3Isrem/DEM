@@ -7,7 +7,7 @@ the library can be downloaded from the following repository.
 
 
 
-[link to Sparkfun ccs811 repository](https://github.com/sparkfun/SparkFun_CCS811_Arduino_Library)
+[Link to Sparkfun CCS811 repository](https://github.com/sparkfun/SparkFun_CCS811_Arduino_Library)
 
 ![sensor](../master/foldIMg/CCS811.jpg) 
 
